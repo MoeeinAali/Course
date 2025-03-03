@@ -1,9 +1,5 @@
 # CE{Code of Course}-{Short Name of Course}
-Solutions to Prof. {Name of Prof}'s CE{Code of Course}: {Full Name of Course} ({Name of Uni} - {Semester} {Year}) Assignments
-
-## Overview
-
-This repository contains solutions to the assignments for the CE{Code of Course}: {Full Name of Course} course at the {Name of Uni}, {Semester} {Year}, taught by Prof. {Name of Prof}.
+Solutions to Prof. {Name of Prof}'s CE{Code of Course}: {Full Name of Course} (Sharif University of Technology - {Semester} {Year}) Assignments
 
 ## Table of Contents
 
